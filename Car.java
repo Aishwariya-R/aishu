@@ -6,11 +6,11 @@ public class Car
 	int price;
 	public static void main(String[] args) 
 	{
-		Car c1 =new Car();
-		c1.model="swift";
-		c1.varient="VXI";
-		c1.price=713304;
-		System.out.println(c1.model+"of varient"+c1.varient"+"price is"+s1.price););
+		Car c =new Car();
+		c.model="swift";
+		c.varient="VXI";
+		c.price=713304;
+		System.out.println(c.model+"of varient"+c.varient"+"price is"+s1.price););
 		Car c2=new Car();
 		c2.model="ciaz";
 		c2.varient="zxi"; 
